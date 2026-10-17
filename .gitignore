@@ -16,3 +16,11 @@ bin/
 Thumbs.db
 .vscode/settings.json
 Makefile copy
+
+/data.txt
+/student.txt
+/students.txt
+/student.bin
+/week4_1_dynamic_array
+/week4_2_struct_student
+/week4_3_struct_database
